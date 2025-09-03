@@ -1,5 +1,6 @@
 package com.example.demo.buyer;
 
+import com.example.demo.model.Buyer;
 import lombok.Getter;
 import org.springframework.stereotype.Service;
 

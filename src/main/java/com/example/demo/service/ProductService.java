@@ -1,5 +1,6 @@
 package com.example.demo.product;
 
+import com.example.demo.model.Product;
 import lombok.Getter;
 import org.springframework.stereotype.Service;
 
